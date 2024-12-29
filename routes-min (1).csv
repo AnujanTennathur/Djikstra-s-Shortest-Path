@@ -1,0 +1,437 @@
+origin_airport_code,origin_airport,origin_airport_id,origin_airport_latitude,origin_airport_longitude,origin_city,origin_country,destination_airport_code,destination_airport,destination_airport_id,destination_airport_latitude,destination_airport_longitude,destination_city,destination_country
+ABE,Lehigh Valley International Airport,4355,40.65209961,-75.44080353,Allentown,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+ABQ,Albuquerque International Sunport,4019,35.040199,-106.609001,Albuquerque,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+ACV,California Redwood Coast-Humboldt County Airport,4384,40.978101,-124.109,Arcata CA,United States,CEC,Jack Mc Namara Field Airport,5727,41.78020096,-124.2369995,Crescent City,United States
+ADD,Addis Ababa Bole International Airport,1107,8.977890015,38.799301147499996,Addis Ababa,Ethiopia,JED,King Abdulaziz International Airport,2072,21.6796,39.156502,Jeddah,Saudi Arabia
+AKL,Auckland International Airport,2006,-37.0080986,174.7920074,Auckland,New Zealand,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+ALB,Albany International Airport,3864,42.74829864501953,-73.80169678,Albany,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+AMS,Amsterdam Airport Schiphol,580,52.308601,4.76389,Amsterdam,Netherlands,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+ANC,Ted Stevens Anchorage International Airport,3774,61.174400329589844,-149.9960022,Anchorage,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+ARN,Stockholm-Arlanda Airport,737,59.65190125,17.91860008,Stockholm,Sweden,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+ATL,Hartsfield Jackson Atlanta International Airport,3682,33.6367,-84.428101,Atlanta,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+ATL,Hartsfield Jackson Atlanta International Airport,3682,33.6367,-84.428101,Atlanta,United States,LGA,La Guardia Airport,3697,40.77719879,-73.87259674,New York,United States
+AUA,Queen Beatrix International Airport,2895,12.5014,-70.015198,Oranjestad,Aruba,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+AUS,Austin Bergstrom International Airport,3673,30.194499969482422,-97.66989899,Austin,United States,CUN,Cancún International Airport,1852,21.036500930800003,-86.87709808,Cancun,Mexico
+AUS,Austin Bergstrom International Airport,3673,30.194499969482422,-97.66989899,Austin,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+BAH,Bahrain International Airport,2057,26.27079963684082,50.63359832763672,Bahrain,Bahrain,DOH,Hamad International Airport,11051,25.273056,51.608056,Doha,Qatar
+BDL,Bradley International Airport,3825,41.93889999,-72.68319702,Windsor Locks,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+BFD,Bradford Regional Airport,5722,41.80310059,-78.64009857,Bradford,United States,JHW,Chautauqua County-Jamestown Airport,7059,42.15340042,-79.25800323,Jamestown,United States
+BFS,Belfast International Airport,465,54.65750122,-6.215829849,Belfast,United Kingdom,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+BHX,Birmingham International Airport,469,52.453899383499994,-1.748029947,Birmingham,United Kingdom,BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium
+BJL,Banjul International Airport,1050,13.338000297546387,-16.6522007,Banjul,Gambia,DKR,Léopold Sédar Senghor International Airport,1084,14.739700317382812,-17.49020004,Dakar,Senegal
+BKW,Raleigh County Memorial Airport,5724,37.787300109899995,-81.12419891,Beckley,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+BNA,Nashville International Airport,3690,36.12450027,-86.67819977,Nashville,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+BOG,El Dorado International Airport,2709,4.70159,-74.1469,Bogota,Colombia,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+BOI,Boise Air Terminal/Gowen Field,3495,43.5644,-116.223,Boise,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+BOS,General Edward Lawrence Logan International Airport,3448,42.36429977,-71.00520325,Boston,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+BOS,General Edward Lawrence Logan International Airport,3448,42.36429977,-71.00520325,Boston,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+BOS,General Edward Lawrence Logan International Airport,3448,42.36429977,-71.00520325,Boston,United States,PTY,Tocumen International Airport,1871,9.071359634,-79.38349915,Panama City,Panama
+BOS,General Edward Lawrence Logan International Airport,3448,42.36429977,-71.00520325,Boston,United States,YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada
+BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium,BHX,Birmingham International Airport,469,52.453899383499994,-1.748029947,Birmingham,United Kingdom
+BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium,JFK,John F Kennedy International Airport,3797,40.63980103,-73.77890015,New York,United States
+BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+BTV,Burlington International Airport,3711,44.471900939899996,-73.15329742,Burlington,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+BUF,Buffalo Niagara International Airport,3820,42.94049835,-78.73220062,Buffalo,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+BWI,Baltimore/Washington International Thurgood Marshall Airport,3849,39.1754,-76.668297,Baltimore,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+BWI,Baltimore/Washington International Thurgood Marshall Airport,3849,39.1754,-76.668297,Baltimore,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+CAE,Columbia Metropolitan Airport,3561,33.93880081176758,-81.11949921,Columbia,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+CCS,Simón Bolívar International Airport,2851,10.601194,-66.991222,Caracas,Venezuela,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+CDR,Chadron Municipal Airport,7066,42.83760071,-103.0950012,Chadron,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+CHS,Charleston Air Force Base-International Airport,3806,32.89860153,-80.04049683,Charleston,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+CID,The Eastern Iowa Airport,4043,41.884700775146484,-91.71080017,Cedar Rapids,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+CLD,Mc Clellan-Palomar Airport,4088,33.12829971,-117.2799988,Carlsbad,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,BNA,Nashville International Airport,3690,36.12450027,-86.67819977,Nashville,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,CLT,Charlotte Douglas International Airport,3876,35.2140007,-80.94309998,Charlotte,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,FKL,Venango Regional Airport,4058,41.37789917,-79.86039734,Franklin,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,3858,44.882,-93.221802,Minneapolis,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,PKB,Mid Ohio Valley Regional Airport,4114,39.34510040283203,-81.43920135,PARKERSBURG,United States
+CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+CLL,Easterwood Field,3715,30.58860016,-96.36380005,College Station,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+CLT,Charlotte Douglas International Airport,3876,35.2140007,-80.94309998,Charlotte,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+CMH,John Glenn Columbus International Airport,3759,39.998001,-82.891899,Columbus,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+CMH,John Glenn Columbus International Airport,3759,39.998001,-82.891899,Columbus,United States,YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada
+COS,City of Colorado Springs Municipal Airport,3819,38.805801,-104.700996,Colorado Springs,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+COS,City of Colorado Springs Municipal Airport,3819,38.805801,-104.700996,Colorado Springs,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+CTS,New Chitose Airport,2287,42.77519989013672,141.69200134277344,Sapporo,Japan,GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam
+CUN,Cancún International Airport,1852,21.036500930800003,-86.87709808,Cancun,Mexico,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+CUU,General Roberto Fierro Villalobos International Airport,1797,28.702899932900003,-105.9649963,Chihuahua,Mexico,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+CVG,Cincinnati Northern Kentucky International Airport,3488,39.04880142,-84.6678009,Cincinnati,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+DAL,Dallas Love Field,3502,32.847099,-96.851799,Dallas,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+DAY,James M Cox Dayton International Airport,3627,39.902400970458984,-84.2193985,Dayton,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+DCA,Ronald Reagan Washington National Airport,3520,38.8521,-77.037697,Washington,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+DEL,Indira Gandhi International Airport,3093,28.5665,77.103104,Delhi,India,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,ANC,Ted Stevens Anchorage International Airport,3774,61.174400329589844,-149.9960022,Anchorage,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,BHM,Birmingham-Shuttlesworth International Airport,3811,33.56290054,-86.75350189,Birmingham,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,BOS,General Edward Lawrence Logan International Airport,3448,42.36429977,-71.00520325,Boston,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,CUN,Cancún International Airport,1852,21.036500930800003,-86.87709808,Cancun,Mexico
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,DFW,Dallas Fort Worth International Airport,3670,32.896801,-97.038002,Dallas-Fort Worth,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,EGE,Eagle County Regional Airport,4250,39.64260101,-106.9179993,Vail,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,FAT,Fresno Yosemite International Airport,3687,36.77619934082031,-119.7180023,Fresno,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,FSD,Joe Foss Field Airport,4009,43.582000732400004,-96.74189758,Sioux Falls,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,GTF,Great Falls International Airport,3880,47.48199844,-111.3710022,Great Falls,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,HSV,Huntsville International Carl T Jones Field,4113,34.6371994,-86.77510071,Huntsville,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,IND,Indianapolis International Airport,3585,39.7173,-86.294403,Indianapolis,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,LAS,McCarran International Airport,3877,36.08010101,-115.1520004,Las Vegas,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,LIT,Bill & Hillary Clinton National Airport/Adams Field,3660,34.729400634799994,-92.22429657,Little Rock,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,MEM,Memphis International Airport,3473,35.04240036010742,-89.97669983,Memphis,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,MLI,Quad City International Airport,4072,41.44850158691406,-90.50749969,Moline,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,3858,44.882,-93.221802,Minneapolis,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,OKC,Will Rogers World Airport,3863,35.39310073852539,-97.60070038,Oklahoma City,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,PHL,Philadelphia International Airport,3752,39.87189865112305,-75.2410965,Philadelphia,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,PSC,Tri Cities Airport,6133,46.26470184326172,-119.1190033,Pasco,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,RDM,Roberts Field,4103,44.2541008,-121.1500015,Redmond-Bend,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,SAN,San Diego International Airport,3731,32.73360062,-117.1900024,San Diego,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,SJD,Los Cabos International Airport,1840,23.15180015563965,-109.7210007,San Jose Del Cabo,Mexico
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,TPA,Tampa International Airport,3646,27.975500106811523,-82.53320313,Tampa,United States
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,YEG,Edmonton International Airport,49,53.309700012200004,-113.5800018,Edmonton,Canada
+DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States,YWG,Winnipeg / James Armstrong Richardson International Airport,160,49.909999847399995,-97.23989868,Winnipeg,Canada
+DFW,Dallas Fort Worth International Airport,3670,32.896801,-97.038002,Dallas-Fort Worth,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+DFW,Dallas Fort Worth International Airport,3670,32.896801,-97.038002,Dallas-Fort Worth,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+DGO,General Guadalupe Victoria International Airport,1801,24.12420082,-104.5279999,Durango,Mexico,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+DKR,Léopold Sédar Senghor International Airport,1084,14.739700317382812,-17.49020004,Dakar,Senegal,CKY,Conakry International Airport,4162,9.57689,-13.612,Conakry,Guinea
+DLA,Douala International Airport,897,4.006080151,9.719479560849999,Douala,Cameroon,NSI,Yaoundé Nsimalen International Airport,4161,3.722559928894043,11.553299903869629,Yaounde,Cameroon
+DOH,Hamad International Airport,11051,25.273056,51.608056,Doha,Qatar,FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany
+DSM,Des Moines International Airport,3729,41.534000396728516,-93.6631012,Des Moines,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+DTW,Detroit Metropolitan Wayne County Airport,3645,42.212398529052734,-83.35340118,Detroit,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+DUB,Dublin Airport,599,53.421299,-6.27007,Dublin,Ireland,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+DUS,Düsseldorf Airport,345,51.289501,6.76678,Duesseldorf,Germany,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+EBB,Entebbe International Airport,1187,0.042386,32.443501,Entebbe,Uganda,BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium
+ELH,North Eleuthera Airport,1943,25.47489929,-76.6835022,North Eleuthera,Bahamas,PBI,Palm Beach International Airport,3722,26.68320083618164,-80.09559631,West Palm Beach,United States
+EUG,Mahlon Sweet Field,4099,44.12459945678711,-123.211998,Eugene,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,AMS,Amsterdam Airport Schiphol,580,52.308601,4.76389,Amsterdam,Netherlands
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,AUS,Austin Bergstrom International Airport,3673,30.194499969482422,-97.66989899,Austin,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,BNA,Nashville International Airport,3690,36.12450027,-86.67819977,Nashville,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,BQN,Rafael Hernandez Airport,2885,18.49489974975586,-67.12940216,Aguadilla,Puerto Rico
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,BZE,Philip S. W. Goldson International Airport,1957,17.539100646972656,-88.30819702,Belize City,Belize
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,CMH,John Glenn Columbus International Airport,3759,39.998001,-82.891899,Columbus,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,DEL,Indira Gandhi International Airport,3093,28.5665,77.103104,Delhi,India
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,DUB,Dublin Airport,599,53.421299,-6.27007,Dublin,Ireland
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,GSO,Piedmont Triad International Airport,4008,36.097801208496094,-79.93730164,Greensboro,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,HKG,Hong Kong International Airport,3077,22.308901,113.915001,Hong Kong,Hong Kong
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,ITH,Ithaca Tompkins Regional Airport,3947,42.49100112915039,-76.45839691,Ithaca,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,LIM,Jorge Chávez International Airport,2789,-12.0219,-77.114305,Lima,Peru
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,MBJ,Sangster International Airport,1780,18.503700256347656,-77.91339874,Montego Bay,Jamaica
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,MHT,Manchester-Boston Regional Airport,4011,42.932598,-71.435699,Manchester NH,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,MSY,Louis Armstrong New Orleans International Airport,3861,29.99340057373047,-90.25800323,New Orleans,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,NRT,Narita International Airport,2279,35.76470184,140.3860016,Tokyo,Japan
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,OSL,Oslo Lufthavn,644,60.121,11.0502,Oslo,Norway
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,PIT,Pittsburgh International Airport,3570,40.49150085,-80.23290253,Pittsburgh,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,PUJ,Punta Cana International Airport,1760,18.567399978599997,-68.36340332,Punta Cana,Dominican Republic
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,RDU,Raleigh Durham International Airport,3626,35.877601623535156,-78.78749847,Raleigh-durham,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,SAN,San Diego International Airport,3731,32.73360062,-117.1900024,San Diego,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,SDQ,Las Américas International Airport,1762,18.42970085,-69.66889954,Santo Domingo,Dominican Republic
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,SJU,Luis Munoz Marin International Airport,2890,18.43939972,-66.00180054,San Juan,Puerto Rico
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,STT,Cyril E. King Airport,2883,18.337299346923828,-64.9733963,St. Thomas,Virgin Islands
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,TUL,Tulsa International Airport,3855,36.19839859008789,-95.88809967,Tulsa,United States
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,YEG,Edmonton International Airport,49,53.309700012200004,-113.5800018,Edmonton,Canada
+EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States,YUL,Montreal / Pierre Elliott Trudeau International Airport,146,45.47060013,-73.74079895,Montreal,Canada
+EYW,Key West International Airport,3875,24.556100845336914,-81.75959778,Key West,United States,FLL,Fort Lauderdale Hollywood International Airport,3533,26.072599,-80.152702,Fort Lauderdale,United States
+FAR,Hector International Airport,4292,46.92070007324219,-96.81580353,Fargo,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+FAY,Fayetteville Regional Grannis Field,5738,34.99119949,-78.88030243,Fayetteville,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+FIH,Ndjili International Airport,1020,-4.38575,15.4446,Kinshasa,Congo (Kinshasa),DLA,Douala International Airport,897,4.006080151,9.719479560849999,Douala,Cameroon
+FLL,Fort Lauderdale Hollywood International Airport,3533,26.072599,-80.152702,Fort Lauderdale,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+FLL,Fort Lauderdale Hollywood International Airport,3533,26.072599,-80.152702,Fort Lauderdale,United States,GGT,Exuma International Airport,1941,23.56259918,-75.87799835,Great Exuma,Bahamas
+FLL,Fort Lauderdale Hollywood International Airport,3533,26.072599,-80.152702,Fort Lauderdale,United States,MHH,Leonard M Thompson International Airport,1930,26.5114,-77.083503,Marsh Harbor,Bahamas
+FMN,Four Corners Regional Airport,3743,36.741199493399996,-108.2300034,Farmington,United States,ALS,San Luis Valley Regional Bergman Field,7073,37.434898,-105.866997,Alamosa,United States
+FOE,Topeka Regional Airport - Forbes Field,3843,38.950901031499995,-95.66359711,Topeka,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany,GYD,Heydar Aliyev International Airport,2922,40.467498779296875,50.04669952392578,Baku,Azerbaijan
+FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany,SEA,Seattle Tacoma International Airport,3577,47.449001,-122.308998,Seattle,United States
+FUK,Fukuoka Airport,2305,33.585899353027344,130.4510040283203,Fukuoka,Japan,GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam
+GCM,Owen Roberts International Airport,1926,19.292800903299998,-81.35769653,Georgetown,Cayman Islands,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+GGT,Exuma International Airport,1941,23.56259918,-75.87799835,Great Exuma,Bahamas,FLL,Fort Lauderdale Hollywood International Airport,3533,26.072599,-80.152702,Fort Lauderdale,United States
+GJT,Grand Junction Regional Airport,4063,39.12239838,-108.5270004,Grand Junction,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+GOT,Gothenburg-Landvetter Airport,687,57.66279984,12.27980042,Gothenborg,Sweden,ARN,Stockholm-Arlanda Airport,737,59.65190125,17.91860008,Stockholm,Sweden
+GRR,Gerald R. Ford International Airport,3685,42.88079834,-85.52279663,Grand Rapids,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+GRU,Guarulhos - Governador André Franco Montoro International Airport,2564,-23.43555641,-46.47305679,Sao Paulo,Brazil,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+GSO,Piedmont Triad International Airport,4008,36.097801208496094,-79.93730164,Greensboro,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+GSP,Greenville Spartanburg International Airport,4034,34.89569855,-82.21890259,Greenville,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+GUA,La Aurora Airport,1767,14.5833,-90.527496,Guatemala City,Guatemala,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam,CTS,New Chitose Airport,2287,42.77519989013672,141.69200134277344,Sapporo,Japan
+GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam,MNL,Ninoy Aquino International Airport,2397,14.5086,121.019997,Manila,Philippines
+GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam,ROR,Babelthuap Airport,2256,7.36731,134.544236,Babelthuap,Palau
+GVA,Geneva Cointrin International Airport,1665,46.23809814453125,6.108950138092041,Geneva,Switzerland,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+GYD,Heydar Aliyev International Airport,2922,40.467498779296875,50.04669952392578,Baku,Azerbaijan,FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany
+HKG,Hong Kong International Airport,3077,22.308901,113.915001,Hong Kong,Hong Kong,GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam
+HLN,Helena Regional Airport,3504,46.60680008,-111.9830017,Helena,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+HNL,Daniel K Inouye International Airport,3728,21.32062,-157.924228,Honolulu,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+HNL,Daniel K Inouye International Airport,3728,21.32062,-157.924228,Honolulu,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+HNL,Daniel K Inouye International Airport,3728,21.32062,-157.924228,Honolulu,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+HPN,Westchester County Airport,3589,41.06700134277344,-73.70760345,White Plains,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+HSV,Huntsville International Carl T Jones Field,4113,34.6371994,-86.77510071,Huntsville,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,ATL,Hartsfield Jackson Atlanta International Airport,3682,33.6367,-84.428101,Atlanta,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,BKW,Raleigh County Memorial Airport,5724,37.787300109899995,-81.12419891,Beckley,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,BTV,Burlington International Airport,3711,44.471900939899996,-73.15329742,Burlington,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,CHS,Charleston Air Force Base-International Airport,3806,32.89860153,-80.04049683,Charleston,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,CRW,Yeager Airport,4285,38.37310028076172,-81.59320068,Charleston,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,DFW,Dallas Fort Worth International Airport,3670,32.896801,-97.038002,Dallas-Fort Worth,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,GCM,Owen Roberts International Airport,1926,19.292800903299998,-81.35769653,Georgetown,Cayman Islands
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,GUA,La Aurora Airport,1767,14.5833,-90.527496,Guatemala City,Guatemala
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,IND,Indianapolis International Airport,3585,39.7173,-86.294403,Indianapolis,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,LAS,McCarran International Airport,3877,36.08010101,-115.1520004,Las Vegas,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,MAN,Manchester Airport,478,53.35369873046875,-2.274950027,Manchester,United Kingdom
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,MEX,Licenciado Benito Juarez International Airport,1824,19.4363,-99.072098,Mexico City,Mexico
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,MUC,Munich Airport,346,48.353802,11.7861,Munich,Germany
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,ORF,Norfolk International Airport,3611,36.89459991455078,-76.20120239,Norfolk,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,PIT,Pittsburgh International Airport,3570,40.49150085,-80.23290253,Pittsburgh,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,RDU,Raleigh Durham International Airport,3626,35.877601623535156,-78.78749847,Raleigh-durham,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,SAT,San Antonio International Airport,3621,29.533700942993164,-98.46980286,San Antonio,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,STL,St Louis Lambert International Airport,3678,38.748697,-90.370003,St. Louis,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,TUL,Tulsa International Airport,3855,36.19839859008789,-95.88809967,Tulsa,United States
+IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States,YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,AEX,Alexandria International Airport,3852,31.32740020751953,-92.54979706,Alexandria,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,AUS,Austin Bergstrom International Airport,3673,30.194499969482422,-97.66989899,Austin,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,BOG,El Dorado International Airport,2709,4.70159,-74.1469,Bogota,Colombia
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,BWI,Baltimore/Washington International Thurgood Marshall Airport,3849,39.1754,-76.668297,Baltimore,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,COS,City of Colorado Springs Municipal Airport,3819,38.805801,-104.700996,Colorado Springs,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,CVG,Cincinnati Northern Kentucky International Airport,3488,39.04880142,-84.6678009,Cincinnati,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,DFW,Dallas Fort Worth International Airport,3670,32.896801,-97.038002,Dallas-Fort Worth,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,GDL,Don Miguel Hidalgo Y Costilla International Airport,1804,20.521799087524414,-103.310997,Guadalajara,Mexico
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,GRR,Gerald R. Ford International Airport,3685,42.88079834,-85.52279663,Grand Rapids,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,HOB,Lea County Regional Airport,3749,32.6875,-103.2170029,Hobbs,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,ICT,Wichita Eisenhower National Airport,3457,37.649899,-97.433098,Wichita,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,LGA,La Guardia Airport,3697,40.77719879,-73.87259674,New York,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,LOS,Murtala Muhammed International Airport,273,6.5773701667785645,3.321160078048706,Lagos,Nigeria
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,MOB,Mobile Regional Airport,3782,30.69120026,-88.24279785,Mobile,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,NAS,Lynden Pindling International Airport,1953,25.03899956,-77.46620178,Nassau,Bahamas
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,ONT,Ontario International Airport,3734,34.055999755859375,-117.6009979,Ontario,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,PDX,Portland International Airport,3720,45.58869934,-122.5979996,Portland,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,PNS,Pensacola Regional Airport,3564,30.47340012,-87.18659973,Pensacola,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,QRO,Querétaro Intercontinental Airport,1838,20.6173,-100.185997,Queretaro,Mexico
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,SAL,Monseñor Óscar Arnulfo Romero International Airport,1892,13.4409,-89.055702,San Salvador,El Salvador
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,SDF,Louisville International Standiford Field,4014,38.1744,-85.736,Louisville,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,SJD,Los Cabos International Airport,1840,23.15180015563965,-109.7210007,San Jose Del Cabo,Mexico
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,SLW,Plan De Guadalupe International Airport,1810,25.54949951171875,-100.9290009,Saltillo,Mexico
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,TGU,Toncontín International Airport,1776,14.06089973449707,-87.21720123,Tegucigalpa,Honduras
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,TYR,Tyler Pounds Regional Airport,3848,32.35409927368164,-95.40239716,Tyler,United States
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,VSA,Carlos Rovirosa Pérez International Airport,1853,17.996999740600586,-92.81739807,Villahermosa,Mexico
+IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States,YYC,Calgary International Airport,178,51.11389923,-114.0199966,Calgary,Canada
+ICN,Incheon International Airport,3930,37.46910095214844,126.45099639892578,Seoul,South Korea,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+ICT,Wichita Eisenhower National Airport,3457,37.649899,-97.433098,Wichita,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+IND,Indianapolis International Airport,3585,39.7173,-86.294403,Indianapolis,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+IND,Indianapolis International Airport,3585,39.7173,-86.294403,Indianapolis,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+JAC,Jackson Hole Airport,4027,43.6072998,-110.737999,Jacksn Hole,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+JAX,Jacksonville International Airport,3712,30.49410057067871,-81.68789673,Jacksonville,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+JED,King Abdulaziz International Airport,2072,21.6796,39.156502,Jeddah,Saudi Arabia,FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany
+JFK,John F Kennedy International Airport,3797,40.63980103,-73.77890015,New York,United States,FRA,Frankfurt am Main Airport,340,50.033333,8.570556,Frankfurt,Germany
+JFK,John F Kennedy International Airport,3797,40.63980103,-73.77890015,New York,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+JFK,John F Kennedy International Airport,3797,40.63980103,-73.77890015,New York,United States,SAL,Monseñor Óscar Arnulfo Romero International Airport,1892,13.4409,-89.055702,San Salvador,El Salvador
+JHW,Chautauqua County-Jamestown Airport,7059,42.15340042,-79.25800323,Jamestown,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+KGL,Kigali International Airport,1165,-1.96863,30.1395,Kigali,Rwanda,EBB,Entebbe International Airport,1187,0.042386,32.443501,Entebbe,Uganda
+KOA,Ellison Onizuka Kona International At Keahole Airport,3514,19.738783,-156.045603,Kona,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+KWA,Bucholz Army Air Field,2251,8.720120429992676,167.73199462890625,Kwajalein,Marshall Islands,MAJ,Marshall Islands International Airport,2249,7.064760208129883,171.27200317382812,Majuro,Marshall Islands
+LAN,Capital City Airport,3544,42.77870178222656,-84.58740234,Lansing,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+LAS,McCarran International Airport,3877,36.08010101,-115.1520004,Las Vegas,United States,FAT,Fresno Yosemite International Airport,3687,36.77619934082031,-119.7180023,Fresno,United States
+LAS,McCarran International Airport,3877,36.08010101,-115.1520004,Las Vegas,United States,PSP,Palm Springs International Airport,3839,33.82970047,-116.5070038,Palm Springs,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,ASE,Aspen-Pitkin Co/Sardy Field,7001,39.22320175,-106.8690033,Aspen,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,BOS,General Edward Lawrence Logan International Airport,3448,42.36429977,-71.00520325,Boston,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,CUN,Cancún International Airport,1852,21.036500930800003,-86.87709808,Cancun,Mexico
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,FAT,Fresno Yosemite International Airport,3687,36.77619934082031,-119.7180023,Fresno,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,JFK,John F Kennedy International Airport,3797,40.63980103,-73.77890015,New York,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,MUC,Munich Airport,346,48.353802,11.7861,Munich,Germany
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,PDX,Portland International Airport,3720,45.58869934,-122.5979996,Portland,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,PTY,Tocumen International Airport,1871,9.071359634,-79.38349915,Panama City,Panama
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,SAN,San Diego International Airport,3731,32.73360062,-117.1900024,San Diego,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,SMX,Santa Maria Pub/Capt G Allan Hancock Field,5772,34.89889908,-120.4570007,Santa Maria,United States
+LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States,YUM,Yuma MCAS/Yuma International Airport,3596,32.65660095,-114.6060028,Yuma,United States
+LBB,Lubbock Preston Smith International Airport,3829,33.663601,-101.822998,Lubbock,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+LEX,Blue Grass Airport,4017,38.03649902,-84.60590363,Lexington KY,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+LGA,La Guardia Airport,3697,40.77719879,-73.87259674,New York,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+LGA,La Guardia Airport,3697,40.77719879,-73.87259674,New York,United States,YUL,Montreal / Pierre Elliott Trudeau International Airport,146,45.47060013,-73.74079895,Montreal,Canada
+LHR,London Heathrow Airport,507,51.4706,-0.461941,London,United Kingdom,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+LIH,Lihue Airport,3602,21.97599983215332,-159.3390045,Lihue,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+LIR,Daniel Oduber Quiros International Airport,1881,10.5933,-85.544403,Liberia,Costa Rica,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+LIT,Bill & Hillary Clinton National Airport/Adams Field,3660,34.729400634799994,-92.22429657,Little Rock,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+LNK,Lincoln Airport,3543,40.85100173950195,-96.75920105,Lincoln,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+LRD,Laredo International Airport,3691,27.543800354003906,-99.46160126,Laredo,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+MAJ,Marshall Islands International Airport,2249,7.064760208129883,171.27200317382812,Majuro,Marshall Islands,HNL,Daniel K Inouye International Airport,3728,21.32062,-157.924228,Honolulu,United States
+MBJ,Sangster International Airport,1780,18.503700256347656,-77.91339874,Montego Bay,Jamaica,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+MCI,Kansas City International Airport,3458,39.2976,-94.713898,Kansas City,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States,PNS,Pensacola Regional Airport,3564,30.47340012,-87.18659973,Pensacola,United States
+MCT,Muscat International Airport,2194,23.593299865722656,58.284400939941406,Muscat,Oman,AUH,Abu Dhabi International Airport,2179,24.433000564575195,54.651100158691406,Abu Dhabi,United Arab Emirates
+MEM,Memphis International Airport,3473,35.04240036010742,-89.97669983,Memphis,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+MEX,Licenciado Benito Juarez International Airport,1824,19.4363,-99.072098,Mexico City,Mexico,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+MEX,Licenciado Benito Juarez International Airport,1824,19.4363,-99.072098,Mexico City,Mexico,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+MGW,Morgantown Municipal Walter L. Bill Hart Field,4284,39.64289856,-79.91629791,Morgantown,United States,CKB,North Central West Virginia Airport,5730,39.29660034,-80.22810364,Clarksburg,United States
+MHH,Leonard M Thompson International Airport,1930,26.5114,-77.083503,Marsh Harbor,Bahamas,PBI,Palm Beach International Airport,3722,26.68320083618164,-80.09559631,West Palm Beach,United States
+MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States,CLO,Alfonso Bonilla Aragon International Airport,2715,3.54322,-76.3816,Cali,Colombia
+MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States,GUA,La Aurora Airport,1767,14.5833,-90.527496,Guatemala City,Guatemala
+MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States,MDE,Jose Maria Córdova International Airport,2745,6.16454,-75.4231,Rio Negro,Colombia
+MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States,ZRH,Zürich Airport,1678,47.464699,8.54917,Zurich,Switzerland
+MKE,General Mitchell International Airport,3717,42.947200775146484,-87.89659882,Milwaukee,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+MLM,General Francisco J. Mujica International Airport,1821,19.84989929,-101.0250015,Morelia,Mexico,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+MOB,Mobile Regional Airport,3782,30.69120026,-88.24279785,Mobile,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+MRY,Monterey Peninsula Airport,3948,36.58700180053711,-121.8430023,Monterey,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,3858,44.882,-93.221802,Minneapolis,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+MSP,Minneapolis-St Paul International/Wold-Chamberlain Airport,3858,44.882,-93.221802,Minneapolis,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+MSY,Louis Armstrong New Orleans International Airport,3861,29.99340057373047,-90.25800323,New Orleans,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+MSY,Louis Armstrong New Orleans International Airport,3861,29.99340057373047,-90.25800323,New Orleans,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+MTY,General Mariano Escobedo International Airport,1825,25.7784996,-100.1070023,Monterrey,Mexico,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+MUC,Munich Airport,346,48.353802,11.7861,Munich,Germany,JFK,John F Kennedy International Airport,3797,40.63980103,-73.77890015,New York,United States
+MYR,Myrtle Beach International Airport,3515,33.67969894,-78.92829895,Myrtle Beach,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+NBO,Jomo Kenyatta International Airport,4059,-1.319239974,36.92779922,Nairobi,Kenya,BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium
+NRT,Narita International Airport,2279,35.76470184,140.3860016,Tokyo,Japan,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+NRT,Narita International Airport,2279,35.76470184,140.3860016,Tokyo,Japan,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+NRT,Narita International Airport,2279,35.76470184,140.3860016,Tokyo,Japan,SEA,Seattle Tacoma International Airport,3577,47.449001,-122.308998,Seattle,United States
+NSI,Yaoundé Nsimalen International Airport,4161,3.722559928894043,11.553299903869629,Yaounde,Cameroon,DLA,Douala International Airport,897,4.006080151,9.719479560849999,Douala,Cameroon
+OGG,Kahului Airport,3456,20.8986,-156.429993,Kahului,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+OKC,Will Rogers World Airport,3863,35.39310073852539,-97.60070038,Oklahoma City,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+OMA,Eppley Airfield,3454,41.3032,-95.894096,Omaha,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+ONT,Ontario International Airport,3734,34.055999755859375,-117.6009979,Ontario,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,ALB,Albany International Airport,3864,42.74829864501953,-73.80169678,Albany,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,AUS,Austin Bergstrom International Airport,3673,30.194499969482422,-97.66989899,Austin,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,BNA,Nashville International Airport,3690,36.12450027,-86.67819977,Nashville,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,BUF,Buffalo Niagara International Airport,3820,42.94049835,-78.73220062,Buffalo,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,CDG,Charles de Gaulle International Airport,1382,49.012798,2.55,Paris,France
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,CMH,John Glenn Columbus International Airport,3759,39.998001,-82.891899,Columbus,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,CVG,Cincinnati Northern Kentucky International Airport,3488,39.04880142,-84.6678009,Cincinnati,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,DFW,Dallas Fort Worth International Airport,3670,32.896801,-97.038002,Dallas-Fort Worth,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,DUS,Düsseldorf Airport,345,51.289501,6.76678,Duesseldorf,Germany
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,FLL,Fort Lauderdale Hollywood International Airport,3533,26.072599,-80.152702,Fort Lauderdale,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,GRB,Austin Straubel International Airport,3653,44.48509979248047,-88.12960052,Green Bay,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,HKG,Hong Kong International Airport,3077,22.308901,113.915001,Hong Kong,Hong Kong
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,LAN,Capital City Airport,3544,42.77870178222656,-84.58740234,Lansing,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,LHR,London Heathrow Airport,507,51.4706,-0.461941,London,United Kingdom
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,MSN,Dane County Regional Truax Field,3459,43.13990020751953,-89.33750153,Madison,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,MYR,Myrtle Beach International Airport,3515,33.67969894,-78.92829895,Myrtle Beach,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,OMA,Eppley Airfield,3454,41.3032,-95.894096,Omaha,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,PHL,Philadelphia International Airport,3752,39.87189865112305,-75.2410965,Philadelphia,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,PTY,Tocumen International Airport,1871,9.071359634,-79.38349915,Panama City,Panama
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,PWM,Portland International Jetport Airport,3862,43.64619827,-70.30930328,Portland,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,ROC,Greater Rochester International Airport,3622,43.118900299072266,-77.67240143,Rochester,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,SBN,South Bend Regional Airport,4359,41.70869827270508,-86.31729889,South Bend,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,SGF,Springfield Branson National Airport,4348,37.24570084,-93.38860321,Springfield,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,SMF,Sacramento International Airport,3817,38.69540023803711,-121.5910034,Sacramento,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,STL,St Louis Lambert International Airport,3678,38.748697,-90.370003,St. Louis,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,TUL,Tulsa International Airport,3855,36.19839859008789,-95.88809967,Tulsa,United States
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,YEG,Edmonton International Airport,49,53.309700012200004,-113.5800018,Edmonton,Canada
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,YUL,Montreal / Pierre Elliott Trudeau International Airport,146,45.47060013,-73.74079895,Montreal,Canada
+ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States,YYC,Calgary International Airport,178,51.11389923,-114.0199966,Calgary,Canada
+ORF,Norfolk International Airport,3611,36.89459991455078,-76.20120239,Norfolk,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+OUA,Ouagadougou Airport,246,12.3532,-1.51242,Ouagadougou,Burkina Faso,BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium
+PBI,Palm Beach International Airport,3722,26.68320083618164,-80.09559631,West Palm Beach,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+PDX,Portland International Airport,3720,45.58869934,-122.5979996,Portland,United States,EUG,Mahlon Sweet Field,4099,44.12459945678711,-123.211998,Eugene,United States
+PDX,Portland International Airport,3720,45.58869934,-122.5979996,Portland,United States,LMT,Crater Lake-Klamath Regional Airport,5750,42.156101,-121.733002,Klamath Falls,United States
+PDX,Portland International Airport,3720,45.58869934,-122.5979996,Portland,United States,YVR,Vancouver International Airport,156,49.19390106,-123.1839981,Vancouver,Canada
+PEK,Beijing Capital International Airport,3364,40.080101013183594,116.58499908447266,Beijing,China,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+PGA,Page Municipal Airport,4124,36.92610168,-111.447998,Page,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+PHL,Philadelphia International Airport,3752,39.87189865112305,-75.2410965,Philadelphia,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+PHX,Phoenix Sky Harbor International Airport,3462,33.43429946899414,-112.012001,Phoenix,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+PHX,Phoenix Sky Harbor International Airport,3462,33.43429946899414,-112.012001,Phoenix,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+PIR,Pierre Regional Airport,5761,44.38270187,-100.2860031,Pierre,United States,HON,Huron Regional Airport,3491,44.38520050048828,-98.22850037,Huron,United States
+PIT,Pittsburgh International Airport,3570,40.49150085,-80.23290253,Pittsburgh,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+PLS,Providenciales Airport,1754,21.77359962463379,-72.26589966,Providenciales,Turks and Caicos Islands,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+PNS,Pensacola Regional Airport,3564,30.47340012,-87.18659973,Pensacola,United States,MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States
+POS,Piarco International Airport,2902,10.595399856567383,-61.33720016,Port-of-spain,Trinidad and Tobago,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+PSP,Palm Springs International Airport,3839,33.82970047,-116.5070038,Palm Springs,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+PTY,Tocumen International Airport,1871,9.071359634,-79.38349915,Panama City,Panama,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+PTY,Tocumen International Airport,1871,9.071359634,-79.38349915,Panama City,Panama,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+PUJ,Punta Cana International Airport,1760,18.567399978599997,-68.36340332,Punta Cana,Dominican Republic,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+PVD,Theodore Francis Green State Airport,3641,41.732601,-71.420403,Providence,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+PVR,Licenciado Gustavo Díaz Ordaz International Airport,1836,20.680099487304688,-105.2539978,Puerto Vallarta,Mexico,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+PVR,Licenciado Gustavo Díaz Ordaz International Airport,1836,20.680099487304688,-105.2539978,Puerto Vallarta,Mexico,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+RDM,Roberts Field,4103,44.2541008,-121.1500015,Redmond-Bend,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+RDU,Raleigh Durham International Airport,3626,35.877601623535156,-78.78749847,Raleigh-durham,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+RIC,Richmond International Airport,3608,37.50519943237305,-77.31970215,Richmond,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+RNO,Reno Tahoe International Airport,3807,39.49909973144531,-119.7679977,Reno,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+ROB,Roberts International Airport,1063,6.23379,-10.3623,Monrovia,Liberia,BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium
+ROP,Rota International Airport,2243,14.174300193786621,145.2429962158203,Rota,Northern Mariana Islands,GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam
+RSW,Southwest Florida International Airport,3793,26.53619956970215,-81.75520325,Fort Myers,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+RSW,Southwest Florida International Airport,3793,26.53619956970215,-81.75520325,Fort Myers,United States,MCO,Orlando International Airport,3878,28.429399490356445,-81.30899811,Orlando,United States
+SAL,Monseñor Óscar Arnulfo Romero International Airport,1892,13.4409,-89.055702,San Salvador,El Salvador,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+SAL,Monseñor Óscar Arnulfo Romero International Airport,1892,13.4409,-89.055702,San Salvador,El Salvador,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+SAN,San Diego International Airport,3731,32.73360062,-117.1900024,San Diego,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+SAP,Ramón Villeda Morales International Airport,1772,15.4526,-87.923599,San Pedro Sula,Honduras,MIA,Miami International Airport,3576,25.79319953918457,-80.29060364,Miami,United States
+SAT,San Antonio International Airport,3621,29.533700942993164,-98.46980286,San Antonio,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+SAV,Savannah Hilton Head International Airport,3613,32.12760162,-81.20210266,Savannah,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+SBN,South Bend Regional Airport,4359,41.70869827270508,-86.31729889,South Bend,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+SDF,Louisville International Standiford Field,4014,38.1744,-85.736,Louisville,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+SDF,Louisville International Standiford Field,4014,38.1744,-85.736,Louisville,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+SEA,Seattle Tacoma International Airport,3577,47.449001,-122.308998,Seattle,United States,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+SEA,Seattle Tacoma International Airport,3577,47.449001,-122.308998,Seattle,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+SEA,Seattle Tacoma International Airport,3577,47.449001,-122.308998,Seattle,United States,YVR,Vancouver International Airport,156,49.19390106,-123.1839981,Vancouver,Canada
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,AUS,Austin Bergstrom International Airport,3673,30.194499969482422,-97.66989899,Austin,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,BWI,Baltimore/Washington International Thurgood Marshall Airport,3849,39.1754,-76.668297,Baltimore,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,COS,City of Colorado Springs Municipal Airport,3819,38.805801,-104.700996,Colorado Springs,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,EUG,Mahlon Sweet Field,4099,44.12459945678711,-123.211998,Eugene,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,GDL,Don Miguel Hidalgo Y Costilla International Airport,1804,20.521799087524414,-103.310997,Guadalajara,Mexico
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,ICN,Incheon International Airport,3930,37.46910095214844,126.45099639892578,Seoul,South Korea
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,LAS,McCarran International Airport,3877,36.08010101,-115.1520004,Las Vegas,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,MCI,Kansas City International Airport,3458,39.2976,-94.713898,Kansas City,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,MRY,Monterey Peninsula Airport,3948,36.58700180053711,-121.8430023,Monterey,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,OGG,Kahului Airport,3456,20.8986,-156.429993,Kahului,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,PDX,Portland International Airport,3720,45.58869934,-122.5979996,Portland,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,PSC,Tri Cities Airport,6133,46.26470184326172,-119.1190033,Pasco,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,RDM,Roberts Field,4103,44.2541008,-121.1500015,Redmond-Bend,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,SAT,San Antonio International Airport,3621,29.533700942993164,-98.46980286,San Antonio,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,SLC,Salt Lake City International Airport,3536,40.78839874267578,-111.9779968,Salt Lake City,United States
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,TPE,Taiwan Taoyuan International Airport,2276,25.0777,121.233002,Taipei,Taiwan
+SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States,YYC,Calgary International Airport,178,51.11389923,-114.0199966,Calgary,Canada
+SGF,Springfield Branson National Airport,4348,37.24570084,-93.38860321,Springfield,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+SHV,Shreveport Regional Airport,3609,32.446602,-93.8256,Shreveport,United States,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+SJC,Norman Y. Mineta San Jose International Airport,3748,37.362598,-121.929001,San Jose,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+SJD,Los Cabos International Airport,1840,23.15180015563965,-109.7210007,San Jose Del Cabo,Mexico,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+SJO,Juan Santamaria International Airport,1885,9.993860244750977,-84.20880127,San Jose,Costa Rica,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+SJU,Luis Munoz Marin International Airport,2890,18.43939972,-66.00180054,San Juan,Puerto Rico,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+SLC,Salt Lake City International Airport,3536,40.78839874267578,-111.9779968,Salt Lake City,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+SMF,Sacramento International Airport,3817,38.69540023803711,-121.5910034,Sacramento,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+SMF,Sacramento International Airport,3817,38.69540023803711,-121.5910034,Sacramento,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+SNA,John Wayne Airport-Orange County Airport,3867,33.67570114,-117.8679962,Santa Ana,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+SPN,Saipan International Airport,2244,15.119,145.729004,Saipan,Northern Mariana Islands,GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam
+STL,St Louis Lambert International Airport,3678,38.748697,-90.370003,St. Louis,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+STL,St Louis Lambert International Airport,3678,38.748697,-90.370003,St. Louis,United States,SFO,San Francisco International Airport,3469,37.61899948120117,-122.375,San Francisco,United States
+STT,Cyril E. King Airport,2883,18.337299346923828,-64.9733963,St. Thomas,Virgin Islands,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+SYD,Sydney Kingsford Smith International Airport,3361,-33.94609833,151.177002,Sydney,Australia,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+SYR,Syracuse Hancock International Airport,3745,43.11119842529297,-76.10630035,Syracuse,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+TKK,Chuuk International Airport,2254,7.461870193481445,151.84300231933594,Chuuk,Micronesia,GUM,Antonio B. Won Pat International Airport,2246,13.48340034,144.7960052,Agana,Guam
+TPA,Tampa International Airport,3646,27.975500106811523,-82.53320313,Tampa,United States,CLE,Cleveland Hopkins International Airport,3486,41.4117012,-81.84980011,Cleveland,United States
+TPA,Tampa International Airport,3646,27.975500106811523,-82.53320313,Tampa,United States,GNV,Gainesville Regional Airport,3472,29.69009972,-82.27179718,Gainesville,United States
+TPA,Tampa International Airport,3646,27.975500106811523,-82.53320313,Tampa,United States,PBI,Palm Beach International Airport,3722,26.68320083618164,-80.09559631,West Palm Beach,United States
+TRN,Turin Airport,1526,45.200802,7.64963,Torino,Italy,BRU,Brussels Airport,302,50.901401519800004,4.48443985,Brussels,Belgium
+TUL,Tulsa International Airport,3855,36.19839859008789,-95.88809967,Tulsa,United States,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+TUS,Tucson International Airport,3636,32.11610031,-110.9410019,Tucson,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+TYS,McGhee Tyson Airport,3676,35.81100082,-83.9940033,Knoxville,United States,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+UIO,Mariscal Sucre International Airport,2688,-0.129166667,-78.3575,Quito,Ecuador,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+VIE,Vienna International Airport,1613,48.11029816,16.56970024,Vienna,Austria,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+VSA,Carlos Rovirosa Pérez International Airport,1853,17.996999740600586,-92.81739807,Villahermosa,Mexico,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+XNA,Northwest Arkansas Regional Airport,4356,36.281898,-94.306801,Bentonville,United States,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+YEG,Edmonton International Airport,49,53.309700012200004,-113.5800018,Edmonton,Canada,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+YHZ,Halifax / Stanfield International Airport,73,44.88079834,-63.50859833,Halifax,Canada,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+YOW,Ottawa Macdonald-Cartier International Airport,100,45.32249832,-75.66919708,Ottawa,Canada,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+YQM,Greater Moncton International Airport,117,46.11220169067383,-64.6785965,Moncton,Canada,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+YUL,Montreal / Pierre Elliott Trudeau International Airport,146,45.47060013,-73.74079895,Montreal,Canada,DEN,Denver International Airport,3751,39.86169815,-104.6729965,Denver,United States
+YUL,Montreal / Pierre Elliott Trudeau International Airport,146,45.47060013,-73.74079895,Montreal,Canada,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+YUM,Yuma MCAS/Yuma International Airport,3596,32.65660095,-114.6060028,Yuma,United States,LAX,Los Angeles International Airport,3484,33.94250107,-118.4079971,Los Angeles,United States
+YVR,Vancouver International Airport,156,49.19390106,-123.1839981,Vancouver,Canada,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+YWG,Winnipeg / James Armstrong Richardson International Airport,160,49.909999847399995,-97.23989868,Winnipeg,Canada,ORD,Chicago O'Hare International Airport,3830,41.9786,-87.9048,Chicago,United States
+YYC,Calgary International Airport,178,51.11389923,-114.0199966,Calgary,Canada,IAH,George Bush Intercontinental Houston Airport,3550,29.984399795532227,-95.34140015,Houston,United States
+YYT,St. John's International Airport,189,47.61859894,-52.75189972,St. John's,Canada,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada,CMH,John Glenn Columbus International Airport,3759,39.998001,-82.891899,Columbus,United States
+YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada,IAD,Washington Dulles International Airport,3714,38.94449997,-77.45580292,Washington,United States
+YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada,MSY,Louis Armstrong New Orleans International Airport,3861,29.99340057373047,-90.25800323,New Orleans,United States
+YYZ,Lester B. Pearson International Airport,193,43.67720032,-79.63059998,Toronto,Canada,STL,St Louis Lambert International Airport,3678,38.748697,-90.370003,St. Louis,United States
+ZRH,Zürich Airport,1678,47.464699,8.54917,Zurich,Switzerland,EWR,Newark Liberty International Airport,3494,40.692501068115234,-74.16870117,Newark,United States
+ZRH,Zürich Airport,1678,47.464699,8.54917,Zurich,Switzerland,NBO,Jomo Kenyatta International Airport,4059,-1.319239974,36.92779922,Nairobi,Kenya
